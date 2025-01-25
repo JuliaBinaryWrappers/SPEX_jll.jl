@@ -12,7 +12,7 @@ function __init__()
     JLLWrappers.@generate_init_header(libblastrampoline_jll, LLVMOpenMP_jll, GMP_jll, MPFR_jll, SuiteSparse_jll)
     JLLWrappers.@init_library_product(
         libspex,
-        "lib/libspex.3.1.0.dylib",
+        "lib/libspex.3.2.1.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
