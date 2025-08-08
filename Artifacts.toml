@@ -1,160 +1,160 @@
 [[SPEX]]
 arch = "aarch64"
-git-tree-sha1 = "21c75d7e38296d895f2135eb3dc7c956c8ce9d48"
+git-tree-sha1 = "8376586e4fc73bae9ebe27c9e457b36c48908925"
 os = "macos"
 
     [[SPEX.download]]
-    sha256 = "08df517304c44b0adb93905bbe08cb9e4f6f464923c13c8ded459c597090d88f"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "fff02c59d7c71cf48c9390b6056630a850b958e764329e9ad0eb05bfc15c4df2"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.aarch64-apple-darwin.tar.gz"
 [[SPEX]]
 arch = "aarch64"
-git-tree-sha1 = "50cdd31a1e2c2b8744bf4259edd2c89ca9025453"
+git-tree-sha1 = "eddc2e5e694dcb8926f37d0b8a96c6a04b755bc5"
 libc = "glibc"
 os = "linux"
 
     [[SPEX.download]]
-    sha256 = "f85eff90249cf9e252cca840830ad5f329e842187dad6a750d11a74bd77a3c86"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "5bef02f08e5541e7a087ac02e76b9c2b16fc2b2724baf21212142759e4e5f9e6"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.aarch64-linux-gnu.tar.gz"
 [[SPEX]]
 arch = "aarch64"
-git-tree-sha1 = "0fd4a4ca7a66400b45676e2be8b93003d907e020"
+git-tree-sha1 = "e1e0540cebdd7cafcccc64704818a8c824a8a183"
 libc = "musl"
 os = "linux"
 
     [[SPEX.download]]
-    sha256 = "deb97ca1d6ade7e7ffa3bef4756a8924eb98145c4263ee184d4bbe67af8eb96f"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.aarch64-linux-musl.tar.gz"
+    sha256 = "4e7d1abd6f0087e9f88cf13d304dc91a8af326ab574ecba98feeb4c7fbf5b5ff"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.aarch64-linux-musl.tar.gz"
 [[SPEX]]
 arch = "aarch64"
-git-tree-sha1 = "eab5a52d9908377266c27cdebd8bd0365821187c"
+git-tree-sha1 = "0bd4b911bde7e0cd3122fafbc79f3feb728111c3"
 os = "freebsd"
 
     [[SPEX.download]]
-    sha256 = "03ae398ee7897c21bbed41ac4e39638fd096a4372db026ed9fdb44a04275ef19"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "be5a91fc4de7db92522a93a76c8ed50e31b3457660ba61a08c53500242da2539"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.aarch64-unknown-freebsd.tar.gz"
 [[SPEX]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1dcaaf0d15d2314ad8a19122de7e844ac9835283"
+git-tree-sha1 = "b8e30002045fd25203a0939a18b132e1c01067d7"
 libc = "glibc"
 os = "linux"
 
     [[SPEX.download]]
-    sha256 = "73b5575e7ccd6bb300e192d19efd7ed716a08dcb23ce0f144876958e0ee92c95"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "ea3b60c56252e16aba9ebe19dc853b78cab16f64fc894a19ffcfd4c4317cae16"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.armv6l-linux-gnueabihf.tar.gz"
 [[SPEX]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "299b77f5e43a5eee186fbfaa75e5075089d89ec7"
+git-tree-sha1 = "ed96bd8238769b68999f1c729fe9d361e5cb7f92"
 libc = "musl"
 os = "linux"
 
     [[SPEX.download]]
-    sha256 = "8364030a80657fd1e294e6493cbd04828d1617e695c934ae02b1fbe136a10479"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "4d533e056b20617ab80806109e9dd4c902796121a718eca3e77c77ad8c10b000"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.armv6l-linux-musleabihf.tar.gz"
 [[SPEX]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0462c42dc94802e8062b28fdf80244df64329243"
+git-tree-sha1 = "32b340e04de7f21be75c71015cc8a376fe6b5a1c"
 libc = "glibc"
 os = "linux"
 
     [[SPEX.download]]
-    sha256 = "32ef7505dee551cb6774cb8f690288646a8931931f76a7bd180d8be568ad171c"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "65b2be3bde88def14603230960bb32e89cbad8a9176cf24fce5b0f301e855536"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.armv7l-linux-gnueabihf.tar.gz"
 [[SPEX]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ce57bfe56b634e34d0b494c18f65c4427012cee3"
+git-tree-sha1 = "adc5cae9c373981262d728a516415a75a0e037b2"
 libc = "musl"
 os = "linux"
 
     [[SPEX.download]]
-    sha256 = "14ce327aa63ef0d9f5b5bb2dad563318c91b10e8000d99e315e061ad5be3b3d0"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "8163982e99b5f1146dcf8ae66cfe81c08c185207fbbbb8db1cfec0da7b24b55f"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.armv7l-linux-musleabihf.tar.gz"
 [[SPEX]]
 arch = "i686"
-git-tree-sha1 = "af3983ab4dd2db187fd635e604872c0cbad0de8d"
+git-tree-sha1 = "b649f7d50acd41cd84632d926217bb596b814950"
 libc = "glibc"
 os = "linux"
 
     [[SPEX.download]]
-    sha256 = "2a10c4866eb83cd3d5c0687542d91de8480e3aa784a670554e819a766096e06a"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.i686-linux-gnu.tar.gz"
+    sha256 = "d1da603182c378df03985095b492d16bc83e1d69ef854e47149fc6bf6966307c"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.i686-linux-gnu.tar.gz"
 [[SPEX]]
 arch = "i686"
-git-tree-sha1 = "1a456eb81049fb2708b66ecbbbd8db369e9e4a00"
+git-tree-sha1 = "a7da903bbe8b88ee0e356789b231328012a63825"
 libc = "musl"
 os = "linux"
 
     [[SPEX.download]]
-    sha256 = "6c55924f3a9d7e3391b8d8a3d97961fceb622aa4297686fbee267aebad6e52ae"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.i686-linux-musl.tar.gz"
+    sha256 = "59b56f4aa8effa447b543e0c0f73c6dab5e3c43e1cf0f4b7b879c29485949e8f"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.i686-linux-musl.tar.gz"
 [[SPEX]]
 arch = "i686"
-git-tree-sha1 = "9a54151606f446c4c79339f1d25deb2a7d5c8cfb"
+git-tree-sha1 = "c457e45299ed02afd729e8618604aee80710dfe6"
 os = "windows"
 
     [[SPEX.download]]
-    sha256 = "8075114de57eaea35e21f9a181212313f7f1ce0f55ed6785e0c657e0626bee08"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.i686-w64-mingw32.tar.gz"
+    sha256 = "0a0c2caead17d157e9d241f9cbc5e03addd9dbccf68e8cdc9529ed0d24d3c562"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.i686-w64-mingw32.tar.gz"
 [[SPEX]]
 arch = "powerpc64le"
-git-tree-sha1 = "319e27715fdc5dc858923d9864aee374b55e4e5b"
+git-tree-sha1 = "49696eab6c40e1c9920b9300e27a14cf4a6991b2"
 libc = "glibc"
 os = "linux"
 
     [[SPEX.download]]
-    sha256 = "f66ef2ed4e0930ed37ff79ee2af1d36905b6e01d51844af01845ae3f0bf1a909"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "1e1bcb53f562e04d512736e2949846e9c2cfc5c4d2dfd4a4450494311f093841"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.powerpc64le-linux-gnu.tar.gz"
 [[SPEX]]
 arch = "riscv64"
-git-tree-sha1 = "3a9b931531ad902c49006e8fb6464e724751bc65"
+git-tree-sha1 = "0e852349c19f04f4f0eaaa3bbcb297ba82244d39"
 libc = "glibc"
 os = "linux"
 
     [[SPEX.download]]
-    sha256 = "37aa106a21302aa8f7a1ac3b3524523f7d179c3289f6fe0d7da364276653a7fe"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.riscv64-linux-gnu.tar.gz"
+    sha256 = "7134cd9c684b334b969612ebfa1cbd8410cf2f4567cb7c7964f5f8d969831d86"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.riscv64-linux-gnu.tar.gz"
 [[SPEX]]
 arch = "x86_64"
-git-tree-sha1 = "6378bdbcc443876f66b96f845365c7381a059244"
+git-tree-sha1 = "a994eee411e41d1cd1de20d8da7a0649e2962e73"
 os = "macos"
 
     [[SPEX.download]]
-    sha256 = "919610c0bd7b2e2401a5185def15bccc215d5d4e056d5f4707c05a4f5dc804ec"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "dad4e2988ee99195c4a7fe45196af28b247f683ae091d86538371b0a4fe0a0e4"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.x86_64-apple-darwin.tar.gz"
 [[SPEX]]
 arch = "x86_64"
-git-tree-sha1 = "2e212758879ae821b6579aa9648bf26265af14bd"
+git-tree-sha1 = "f78e270405c862447e8ba1e8a88783435d75933b"
 libc = "glibc"
 os = "linux"
 
     [[SPEX.download]]
-    sha256 = "a2af3415a2d74d0cf0174351d3e7b2fa5df03bc9281951d7b2516ba5a21f930a"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "fd54722656743a27290598c1962609958d87dfb0a2c23b5c5c5338fed41c1954"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.x86_64-linux-gnu.tar.gz"
 [[SPEX]]
 arch = "x86_64"
-git-tree-sha1 = "fbdc40fffdd1b5dee25fdeebbc638e2bed3e1904"
+git-tree-sha1 = "f9ca4b7ff0ed7c61d38ec3cddeb92cd908248651"
 libc = "musl"
 os = "linux"
 
     [[SPEX.download]]
-    sha256 = "809f729c3702e29d866584df9351f8d2ff3c732c103ea3755e70b969af8db6a6"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.x86_64-linux-musl.tar.gz"
+    sha256 = "285fc9ec8d877128a948bd2470b8d215f30d2b2fb78302f9dc7a39f88d187f6b"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.x86_64-linux-musl.tar.gz"
 [[SPEX]]
 arch = "x86_64"
-git-tree-sha1 = "b4c50f47d977cbde2a8a08161853545ba9f01f2e"
+git-tree-sha1 = "806cc5a1b6f66e736446a2c9edb12db98e955d77"
 os = "freebsd"
 
     [[SPEX.download]]
-    sha256 = "07dc8d7a625e27f7f246a1405b4e4dcc45b608d9fcef108f3599143cc25afa5f"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "29e95dd78020c90b031cb798f5899905ec5ee2ee7449ceb6b060c02bcbf3952c"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.x86_64-unknown-freebsd.tar.gz"
 [[SPEX]]
 arch = "x86_64"
-git-tree-sha1 = "af2a9a19fb702b77f665aa8cd5069114640d6861"
+git-tree-sha1 = "4e540ccb4bcc887b329f0ab25c73b01e22635b89"
 os = "windows"
 
     [[SPEX.download]]
-    sha256 = "948a87afb42e25d22b4700fae040b235a1c1fcb5cd3e1cc8c887c64ab9929dd7"
-    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.1+1/SPEX.v3.2.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "33ec6e98027247394071e4ec32027f607959c43fa558f75b16079e3d3a1ba1d4"
+    url = "https://github.com/JuliaBinaryWrappers/SPEX_jll.jl/releases/download/SPEX-v3.2.4+0/SPEX.v3.2.4.x86_64-w64-mingw32.tar.gz"
